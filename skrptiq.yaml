@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "4e1358ed-8b04-4346-ab04-72b37d7a437b"
+id: "ac742f34-ba4c-469c-861a-1a97403f092b"
 name: "gap-analysis"
 display_name: "Research Gap Identification"
 description: "Analyses existing literature to identify gaps, underexplored areas, and opportunities for new research"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
